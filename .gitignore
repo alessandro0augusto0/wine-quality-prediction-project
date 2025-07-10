@@ -1,0 +1,28 @@
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambiente virtual (se você usar)
+.venv/
+env/
+venv/
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Arquivos do VSCode (opcional)
+.vscode/
+
+# Arquivos do Jupyter (caso existam no futuro)
+*.ipynb_checkpoints
+
+# Arquivos gerados por PyInstaller (caso compile o app futuramente)
+dist/
+build/
+*.spec
