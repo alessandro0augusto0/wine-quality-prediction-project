@@ -94,6 +94,7 @@ Você será apresentado com as seguintes opções:
 - Digite **1** para iniciar a Interface Gráfica (GUI).
 - Digite **2** para iniciar a Interface de Terminal (CLI com Gráficos).
 - Digite **3** para iniciar a Interface de Terminal (CLI Manual - Texto), que não requer bibliotecas gráficas para exibir os resultados.
+- Digite **4** para iniciar a Interface Gráfica (CLI Manual - Texto), que não requer bibliotecas gráficas para exibir os resultados.
 
 ### 📂 Estrutura do Projeto
 
